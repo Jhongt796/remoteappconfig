@@ -313,12 +313,12 @@
   }, {
     "key": "pf5uc9pn6p",
     "layout": "profile",
-    "icon": "assets/icons/tabs/icon-heartthin.png",
+    "icon": "assets/icons/tabs/icon-user.png",
     "fontFamily": null,
     "label": null,
     "pos": 500,
     "settings": ["web-uscys8tn5g", "wishlist", "notifications", "language", "web-eqh39tvnnu", "web-uvz2ailmaq"],
-    "background": null,
+    "background": "https://i.imgur.com/HCb5Jif.png",
     "subGeneralSetting": {
       "web-uvz2ailmaq": {
         "requiredLogin": false,
