@@ -338,7 +338,7 @@
       },
       "web-uscys8tn5g": {
         "webUrl": "https://mimercado.delivery/pages/pedidos",
-        "webViewMode": false,
+        "webViewMode": true,
         "requiredLogin": true,
         "icon": "archivebox",
         "iconFontFamily": "CupertinoIcons",
