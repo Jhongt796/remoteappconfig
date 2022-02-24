@@ -141,7 +141,7 @@
     "isBlur": true,
     "isSlider": true
   }, {
-    "imageRatio": 1.2,
+    "imageRatio": 1.0,
     "enableBottomAddToCart": false,
     "cardDesign": "card",
     "backgroundColor": "fffdd700",
